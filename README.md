@@ -1,2 +1,4 @@
 # Hello_World
-This is my First GitHub testing repository.
+
+Hi, This is my First Repostiory.
+i start learning Swift because i love iOS.
